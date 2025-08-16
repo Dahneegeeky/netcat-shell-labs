@@ -36,16 +36,16 @@ These labs are designed for **educational purposes** only, using **Kali Linux** 
 
 ## 🖼️ Screenshots
 
-Placed screenshots in the `images/` folder and cehcker them here:
+Placed screenshots in the [Images](images/) folder and check them here:
 
 
-- [Reverse Shell Attacker] `images/lab01_reverse_attacker.png` → Reverse shell success
+- [Reverse Shell Attacker](images/lab01_reverse_attacker.png) → Reverse shell success
 
-- [Reverse Shell Victim] `images/lab01_reverse_victim.jpg` → Reverse shell success  
+- [Reverse Shell Victim](images/lab01_reverse_victim.jpg) → Reverse shell success  
 
-- [Bind Shell] `images/lab02_bind_attacker.png` → Bind shell success  
+- [Bind Shell](images/lab02_bind_attacker.png) → Bind shell success  
 
-- [ Stabilized shell] `images/lab03_stable.png` → Stabilized shell demo  
+- [ Stabilized shell](images/lab03_stable.png) → Stabilized shell demo  
 
 ---
 
